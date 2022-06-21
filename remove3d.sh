@@ -1,1 +1,1 @@
-find /var/lib/mysql/binlog.0* -mtime +3 -exec rm {} \;
+find /path/path/to/file* -mtime +3 -exec rm {} \;
